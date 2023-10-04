@@ -1,0 +1,14 @@
+.readblog-div{
+    height: 50rem;
+    width: 60rem;
+  
+    margin: 2rem auto;
+}
+.img{
+    margin: 2rem 0;
+    height: 40rem;
+    width: 50rem;
+}
+h2{
+    text-align: center;
+}

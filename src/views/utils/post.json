@@ -1,13 +1,78 @@
 [
     {"id":1,
-        "img": "imges/img1.jpg",
-        "tittle": "this is tittle",
-        "year": "87 year"
+        "img": "http://localhost:3000/imges/img1.jpg",
+        "tittle": "The nation ",
+        "year": "About 2 months ago"
     },
     {"id":2,
-    "img": "imges/img2.jpg",
-    "tittle": "this is tittle",
-    "year": "87 year"
+    "img": "http://localhost:3000/imges/img2.jpg",
+    "tittle": "The margin",
+    "year": "2 months ago"
+},
+{"id":3,
+"img": "http://localhost:3000/imges/img3.png",
+"tittle": "Supported by readymay",
+"year": "1 month ago"
+},
+{"id":4,
+"img": "http://localhost:3000/imges/img4.jpg",
+"tittle": "Advanced copy ",
+"year": "3 month ago"
+},
+{"id":5,
+"img": "http://localhost:3000/imges/img5.jpg",
+"tittle": "pre post",
+"year": "3 month ago"
+},
+{"id":6,
+"img": "http://localhost:3000/imges/img6.jpg",
+"tittle": "assenmble pepar",
+"year": "7 month"
+},
+{"id":7,
+"img": "http://localhost:3000/imges/img7.jpg",
+"tittle": "increment",
+"year": "11 month ago"
+},
+{"id":8,
+"img": "http://localhost:3000/imges/img8.jpg",
+"tittle": "Love injection",
+"year": "11 month ago"
+},
+{"id":9,
+"img": "http://localhost:3000/imges/img9.jpg",
+"tittle": "wonderground",
+"year": "1 year ago"
+},
+{"id":10,
+"img": "http://localhost:3000/imges/img10.jpg",
+"tittle": "Hermit ",
+"year": "1 year ago"
+},
+{"id":11,
+"img": "http://localhost:3000/imges/img11.jpg",
+"tittle": "Geffer",
+"year": " over 1 year"
+},
+{"id":12,
+"img": "http://localhost:3000/imges/img12.jpg",
+"tittle": "Exhibition magzine",
+"year": "over 1 year"
+},
+{"id":13,
+"img": "http://localhost:3000/imges/img13.jpg",
+"tittle": "Education week",
+"year": "almost 2 year ago"
+},
+{"id":14,
+"img": "http://localhost:3000/imges/img14.jpg",
+"tittle": "this is tittle",
+"year": "87 year"
+},
+{"id":15,
+"img": "http://localhost:3000/imges/img15.jpg",
+"tittle": "Technicas journal",
+"year": "87 year"
 }
     
 ]

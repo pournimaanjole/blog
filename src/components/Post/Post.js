@@ -8,7 +8,7 @@ const Post = ({id,img,tittle,year}) => {
     <div className='postcard'>
       <img src={img} className='postimg'></img>
 
-     <Link to={`/postblog/readblog/${id}`}><h4>{tittle}</h4></Link> 
+     <Link to={`/postblog/readblog/${id}`} className='link'><h4>{tittle}</h4></Link> 
       <h5>{year}</h5>
     </div>
     </>
