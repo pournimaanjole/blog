@@ -2,22 +2,34 @@
     {"id":1,
         "img": "http://localhost:3000/imges/img1.jpg",
         "tittle": "The nation ",
-        "year": "About 2 months ago"
+        "year": "About 2 months ago",
+        "heading" :"Mirror Worlds",
+        "text" :"lucky is the writer upon whom misfortune smiles, especially when it’s a relatively minor misfortune from which a lot of narrative mileage can be wrested. Take, for instance, the “personal-branding meltdown” that has recently befallen Naomi Klein. A prolific writer and activist, Klein became notable at a youthful age for having written a mega-best-selling anti-branding manifesto, No Logo, in 1999, which naturally led to her becoming a massive brand herself, a twist of fate about which shes both amusing and astute. But fate proved to have a further irony up its sleeve: Beginning in the 2010s, Klein would also spend more than a decade being chronically mistaken, online and off, for the increasingly unhinged writer, conspiracy theorist, and former feminist Naomi Wolf—both being attractive Jewish public intellectuals named Naomi, and current attention spans being what they are.",
+        "text2" :"In her new book, Doppelganger, Klein uses the ego-rattling effects of acquiring a weird shadow self as her launching pad for a compelling and far-reaching political detective story. Tracking the other Naomi’s transformation from liberal feminist media darling to inflamed anti-vaxxer and mascot of the far right allows Klein to tell the larger story of a country in the midst of its own identity crisis. Her admittedly niche doppelgänger problem becomes a portal to some of the most catastrophic issues currently facing us: the international rise of the authoritarian right, the uncertain future of American democracy, the social schisms accelerated by Covid, and the nature of identity itself under digital capitalism’s designer jackboot. Especially when it comes to the political fallout from the pandemic, no other book I know of has been this intellectually adventurous, this loopily personal, or this entertaining."
     },
     {"id":2,
     "img": "http://localhost:3000/imges/img2.jpg",
     "tittle": "The margin",
-    "year": "2 months ago"
+    "year": "2 months ago",
+    "heading" :"opening the gateway" ,
+    "text": "The concrete face of the dam holds back the mighty Skagit River’s flow, completely blocking salmon migration. Schuyler, an Upper Skagit Indian Tribal elder and the tribe’s policy representative, is visibly tense as he stands on a bridge that spans a stretch of the river dewatered by the dam’s engineering. Known to his people as the Gateway to the Valley of the Spirits, the gorge, which was once animated by the vibrant force of a roaring river that marked the place where his ancestors came to be, has been reduced by the city’s dams to a dry riverbed beneath a deep, murky pool. For millennia, Schuyler’s ancestors have come here to be spiritually restored. But because they don’t own the land, he and his fellow tribal members can’t access it without the city’s permission. Without the river’s power, the tribe’s sacred site hardly resembles itself.",
+    "text2" : "The city’s dams are in the heart of the Upper Skagit’s traditional homelands. Since time immemorial, Schuyler’s ancestors have lived here engaging in ceremonies, maintaining their sacred connection to this place, and surviving by and with the salmon, all of which are now imperiled. The Gorge Dam, and two others above it, owned and operated by the City of Seattle’s City Light department, block salmon from 37 percent of the Skagit River basin. As such, the progressive city’s dams have affected the intergenerational relationship of mutual reciprocity Schuyler’s ancestors have shared with their place of origin and their sacred salmon. Schuyler’s tribe holds a treaty with the federal government guaranteeing that salmon will be available for them to fish and engage in ceremony with. But there is no law giving the tribe the authority to determine the fate of their sacred Gateway to the Valley of the Spirits."
 },
 {"id":3,
 "img": "http://localhost:3000/imges/img3.png",
 "tittle": "Supported by readymay",
-"year": "1 month ago"
+"year": "1 month ago",
+"heading" :"" ,
+"text" :" ",
+"text2":" "
 },
 {"id":4,
 "img": "http://localhost:3000/imges/img4.jpg",
 "tittle": "Advanced copy ",
-"year": "3 month ago"
+"year": "3 month ago",
+"heading":"The brander",
+"text":"Ganz Frankreich wird von Billigschirmen aus Asien überschwemmt. Ganz Frankreich? Nein, ein klitzekleiner Handwerksbetrieb im Pariser 12. Arrondissement hat dem schnell produzierten Massenprodukt den Kampf angesagt – mit Materialien aus der Vergangenheit und einem einzigartigen Savoir-faire.",
+"text2":"Der Mops ist leicht nach unten gerutscht. Ein großer schwarzer Schäferhund liegt oben auf, dazwischen schlängelt sich ein Drachenkopf. Die Tiere warten – manchmal Jahre. Doch irgendwann greift Michel Heurtault beherzt zu und holt sich genau den Tierkopf heraus, den er für seine nächste Schirmkreation braucht. Der Kunsthandwerker aus Paris fertigt nach alter Manier per Hand und ist spezialisiert auf alte oder besser gesagt antike Schirme: «Vom 18. Jahrhundert bis 1960 restauriere ich alles!» Und zwar originalgetreu. In der Parasolerie Heurtault wird ein kaputtes Vintage-Stück nach allen Regeln der Kunst in den Ursprungszustand zurückversetzt – mit Materialien und Stoffen von damals."
 },
 {"id":5,
 "img": "http://localhost:3000/imges/img5.jpg",
@@ -27,52 +39,81 @@
 {"id":6,
 "img": "http://localhost:3000/imges/img6.jpg",
 "tittle": "assenmble pepar",
-"year": "7 month"
+"year": "7 month",
+"heading":"public housing demolition",
+"text":"In March 2022, Melbourne was ranked the fifth least affordable city in the world, with median house prices sitting at 12 times the median household income.1 At the same time, demand for homelessness services and assistance in gaining access to stable housing continues to increase, with approximately 66,232 Victorians in urgent need of housing.",
+"text2":"Despite this growing need for housing, the state government’s current approach to public housing estate renewal is a costly process of demolition, relocation, and construction of new buildings that house fewer people in need. As an alternative, Melbourne-based not-for-profit design practice OFFICE, together with residents of Ascot Vale Housing Estate, developed a strategy to assess the feasibility of retaining existing housing estates, and provide improved social, environmental and economic returns in the process. "
 },
 {"id":7,
 "img": "http://localhost:3000/imges/img7.jpg",
 "tittle": "increment",
-"year": "11 month ago"
+"year": "11 month ago",
+"heading":"Reframing tech debt",
+"text":"Often, tech debt results from taking too many technical shortcuts when building out features. You know the drill: The product team creates an ambitious roadmap that leaves little room for error, and engineers hack on top of an already archaic software infrastructure to enable those ambitions. The debt creeps in like a child tiptoeing into the kitchen to sneak cookies from the pantry, resulting in a gradual erosion of your system’s efficiency—and a whole lot of crumbs to clean up. When quick and dirty hacks become an engineering organization’s default mode, it can be tough to advocate for doing things the “right” way, dedicating time and effort to formulating detailed requirements, building robust solutions, or automating manual tasks.",
+"text2":"Paying down tech debt is frequently seen as the less glamorous, less exciting side of software engineering. Migrations aren’t fun, and neither is replacing old dependencies with new ones. New architectures don’t magically diagram themselves on your whiteboard overnight. But when left unexamined for too long, tech debt can go from a neglected nuisance to a catastrophic failure. In contrast, when addressed proactively, tech debt represents an opportunity to build resilience and robustness into our systems"
 },
 {"id":8,
-"img": "http://localhost:3000/imges/img8.jpg",
-"tittle": "Love injection",
-"year": "11 month ago"
-},
-{"id":9,
 "img": "http://localhost:3000/imges/img9.jpg",
 "tittle": "wonderground",
+"year": "11 month ago",
+"heading":"Gardening as Freedom",
+"text":"Dan Pearson is a British landscape designer, gardener and writer renowned for ecologically sensitive, place-driven, planting design. Over the past 20 years he’s worked on a wide range of local and international projects; from the 240-hectare Tokashi Millenium Forest in Japan to photographer Juergen Teller’s London studio, private country gardens and public spaces throughout the UK. Pearson has written five books and has presented several TV series. He is a quietly spoken and humble man, with chlorophyll running through his veins",
+"text2":"In your writing, you write often about ‘we’, referring to your partner Huw Morgan. I know Huw is very much a part of Dig Delve – your online magazine – and I’m wondering how you two work together? Was he a gardener before you met, or did you bring him to gardening. We’ve been together for twenty-eight years. When I first met him, he was working in film, but he does lots of different things. He’d always had an interest in gardens and nature. The gardening for him, or the appreciation of gardens, was an easy thing to see and understand.It’s quite rare to be able to talk gardens with people. When I studied horticulture, I went to Wisley and thought, at last, I’ll find people my own age. I felt like a freak when I was a kid because all my friends were ladies in their sixties and seventies who were garden fanatics. I didn’t find those people at Wisley at all – just kids who wanted to learn about horticulture"
+
+
+
+},
+{"id":9,
+"img": "http://localhost:3000/imges/img8.jpg",
+"tittle": "Love injection",
 "year": "1 year ago"
 },
 {"id":10,
 "img": "http://localhost:3000/imges/img10.jpg",
 "tittle": "Hermit ",
-"year": "1 year ago"
+"year": "1 year ago",
+"heading":"The End",
+"text":"Its digital incarnation launched in 2001, at a time when the internet was still something of a wilderness for publishers. Cineastes had a finite array of indispensable options to either read or write about film, two of which – DVD Beaver and CriterionForum.org – remain in spectacularly unaltered form. Initially a makeshift compendium of raw HTML pages, a garish sensibility for visual design, and a burgeoning masthead of three, NotComing.com dutifully asserted itself within this modest collective. It looked like this.",
+"text2":"At the start NotComing.com served as a utilitarian archive of my film writing, but the immediacy of web publishing fostered its growth. Within a matter of years, the masthead grew to over a dozen contributors—none of whom, at the time, I had met in person. Its bias towards old films, however, remained unvarying: it was borne of a highly compulsive desire to explore the fringes of cinema and bear witness to its every misbegotten spectacle—a compulsion, I discovered with some incredulity, shared by strangers on the internet from around the world"
 },
 {"id":11,
 "img": "http://localhost:3000/imges/img11.jpg",
 "tittle": "Geffer",
-"year": " over 1 year"
+"year": " over 1 year",
+"text":"Very few people in the world have ever opened their eyes. They live day-to-day with their focus on the big picture of their own personal world- and they omit to truly stop and acknowledge what is around them. Decor resides everywhere around us, but is an unappreciated art that is frequently overlooked and unappreciated.Decor is not just a style in a room, but a form of expression of culture, eras and often can be a time capsule. Decor has a way of changing a room into a unique environment, causing an impact on the people who pass through. Decor has the power to dictate a person’s emotions and mood. With an empty room as a canvas, you have the power to paint a masterpiece with colors, objects and lighting. It can be an identity for people and places around the world",
+"text2":"When walking into a room, or even viewing an image throughout history you can see a distinct style as well as set mood and have the ability to identify a time period simply from that. An example of this could be seeing a large room of grey stone, a red and gold trimmed carpet that trails up to a throne. The room lit by candelabras above and thresholds are arched and elaborate handmade banners proudly drape on the walls with their unique insignia. One could see this and think of kings in the Medieval times solely from the decor of the throne room. The atmosphere is indistinguishable."
 },
 {"id":12,
 "img": "http://localhost:3000/imges/img12.jpg",
 "tittle": "Exhibition magzine",
-"year": "over 1 year"
+"year": "over 1 year",
+"heading":"Beloved Brooklyn",
+"text":"Spike Lee’s presence can be seen, felt, and heard throughout Brooklyn, where the director, screenwriter, and actor spent many of his formative years: after living in Crown Heights, the Lees were the first Black family to move to the largely Italian-American enclave of Cobble Hill. The borough’s stately brownstones and chalk-drawn sidewalks became honorary characters in a multitude of his films—She’s Gotta Have It (1986), Do the Right Thing (1989), Crooklyn (1994)—that have become defining artifacts of youth culture, race relations, and social issues shaping Black American life. “I grew up here, it’s my home,” Lee once said. “It developed who I am and what I’ve become.” He once joked that he had collected enough ephemera to fill up an exhibition at the Brooklyn Museum.",
+"text2":"He wasn’t exaggerating. “Spike Lee: Creative Sources,” opening there today, offers a rare look inside the manifold people, places, and ideas that inspired Lee’s incisive storytelling. Distilling his inspirations into an arc of 400 objects is no small feat, but curators Kimberli Grant and Indira A. Abiskaroon were up to the challenge, assisting Lee in donating historical photographs, album covers, movie posters, costumes, cultural artifacts, and film memorabilia that encapsulate his resounding influence on the landscape of cinema. Among the highlights: an African National Congress flag signed by Winnie and Nelson Mandela, tennis rackets belonging to Arthur Ashe and Serena Williams, and Prince’s “Love Symbol” guitar. "
 },
 {"id":13,
 "img": "http://localhost:3000/imges/img13.jpg",
-"tittle": "Education week",
-"year": "almost 2 year ago"
+"tittle": "Cero magazine",
+"year": "almost 2 year ago",
+"heading":"Book club",
+"text":"The most interesting investigator in Chicago's strong tradition of crime fiction isn't a detective, a lawyer, or even a journalist. Mark Angelotti, the wisecracking protagonist of Lynne Raimondo's Dante series, is a blind psychiatrist turned expert legal witness. Instead of Michael Harvey and Sara Paretsky's blue-collar gumshoes, Angelotti is an eloquent, overeducated mix between Matthew Murdock  ",
+"text2":"Angelotti's third mystery in Dante's Dilemma (after Dante's Wood and Dante's Poison) takes him to the South Side, where a professor infamous for pushing a misogynistic brand of sociology has been found murdered on the University of Chicago campus in Hyde Park during the annual scavenger hunt. The chief suspect: his estranged wife, Rachel Lazarus, who supposedly suffered a long history of domestic violence at the professor's hand"
 },
 {"id":14,
 "img": "http://localhost:3000/imges/img14.jpg",
-"tittle": "this is tittle",
-"year": "87 year"
+"tittle": "Education weak",
+"year": "87 year",
+"heading":"Overdose Campaign",
+"text":"Noah Rodriguez, an honor roll student, older brother, and high school football player, was days into his sophomore year when he became the third student in Texas’ Hays CISD to die of an overdose in a matter of months. In all, the district lost four students to fentanyl poisoning in the summer of 2022.",
+"text2":"The district responded urgently—through a fentanyl awareness campaign, by training staff to recognize and respond to overdoses, and by creating spaces for students to offer solutions and engage with the issue.In the aftermath of Rodriguez’s death, his parents started the Forever 15 Project to spread awareness about the dangers of fentanyl poisoning. They participated in the district’s fentanyl awareness campaign, speaking at district schools about the loss of their son, and the dangers of fentanyl. They offered resources and have been a support for students struggling with addiction."
 },
 {"id":15,
 "img": "http://localhost:3000/imges/img15.jpg",
 "tittle": "Technicas journal",
-"year": "87 year"
+"year": "87 year",
+"heading":"An Electrician",
+"text":"It’s well known that climate change will require the development and maintenance of a vast array of new electrical systems, from solar farms to electric charging stations to induction cooktops. But what’s less commonly understood is that cities like New York are already doing a great deal to retrofit electrical infrastructure in response to climate impacts, and they have been doing so since Hurricane Sandy caused power outages and devastating flooding in 2012. Electrification is not only about futureproofing; it’s part of an ongoing recovery process. What does this process look like? Who are the people involved? What strange spaces around the city do they find themselves in? And what do they think about the role electrification will play in our daily lives and the green transition?",
+"text2":"I’m working on Bellevue Men’s Shelter. It’s located on East 30th Street and First Avenue, right up against the East River. It’s basically on top of the water. It’s a big project. It’s been ongoing for the last three years. This is one of the jobs that resulted from Hurricane Sandy. A lot of the electrical service equipment, including emergency service equipment, went out of power when Sandy flooded the shelter’s basement. Right now, we’re removing the electrical service from the basement and first floor so that it won’t get flooded out again in the future. We had a similar job in a housing project down on the Lower East Side. They had the same problem "
 }
     
 ]

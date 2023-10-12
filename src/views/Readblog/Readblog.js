@@ -23,24 +23,15 @@ if(post.id == id){
   
     <div className='readblog-div'>
      
-    <h1>{data.tittle}</h1>
+    <h1 className='tittlename'>{data.tittle}</h1>
     <img src={data.img} className='img ' />
+   <div className='divsecond'>
+   <h1 className='headingtittle'>{data.heading}</h1>
+   <p > { data.text}</p>
+   <p>{ data.text2}</p>
+   </div>
     </div>
-<h2>similar blogs</h2>
-    <div className='d-flex flex-wrap justify-content-around container '>
-    {
-      post.map((blogdata, index) => {
-        const {id, img, tittle, year } = blogdata;
-        return (
-        <>
-          <Post key={index} id={id} img={img} tittle={tittle} year={year} />
-        </>
-        )
-      })
 
-      }
-      
-      </div>
     </>
   )
 }

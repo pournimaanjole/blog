@@ -1,15 +1,16 @@
 .postcard{
-    height: 27rem ;
-    width: 35rem;
-   
+    
+    width: 25rem;
+
     margin: 2rem 0;
     background-color: white;
 
 }
 .postimg{
-    height: 20rem;
+  
     display: block;
     margin: 0 auto;
+    width: 20rem;
 
 }
 h4{

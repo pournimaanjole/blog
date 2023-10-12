@@ -1,14 +1,33 @@
 .readblog-div{
-    height: 50rem;
-    width: 60rem;
+    
   
-    margin: 2rem auto;
+   
 }
 .img{
-    margin: 2rem 0;
-    height: 40rem;
-    width: 50rem;
+display: block;
+    margin: 2rem auto;
+    height: 30rem;
+    width: 40rem;
+
 }
-h2{
+.tittlename{
     text-align: center;
+    color: red;
+    margin-top: 2rem;
+    font-size: 2.5rem;
+    
+    
+}
+.headingtittle{
+    text-align: center;
+    font-size: 2rem;
+}
+.divsecond{
+   
+    height: 90vh;
+    width: 70vw;
+    margin: 1rem auto;
+}
+.divsecond p{
+font-size: 1.3rem;
 }

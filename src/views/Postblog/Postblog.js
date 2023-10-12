@@ -2,7 +2,6 @@ import React from 'react'
 import Post from '../../components/Post/Post';
 import post from './../utils/post.json';
 import './Postblog.css';
-import Navbar from '../../components/Navbar/Navbar';
 
 const Postblog = () => {
   return (<>
