@@ -1,10 +1,11 @@
 import React, { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
-
-
+import './Home.css'
+import Navbar from '../../components/Navbar/Navbar'
 export default function Home() {
   const [product, setProduct] = useState([])
-  const [search, setseach] = useState()
+
+  // const [search, setseach] = useState()
   useEffect(() => {
     if (!(JSON.parse(localStorage.getItem("token")))) {
       window.location.href = '/login'
@@ -16,7 +17,7 @@ export default function Home() {
     fetch('https://dummyjson.com/products')
       .then(res => res.json())
       .then((data) => {
-        setProduct(data.products)
+        setProduct(data?.products)
 
       });
 
@@ -26,38 +27,47 @@ export default function Home() {
     loadproducts();
   }, [])
 
-  useEffect(() => {
+  // useEffect(() => {
+  //       fetch(`https://dummyjson.com/products/search?q=${search}`)
+  //           .then(res => res.json())
+  //           .then((data) => {
+               
+  //             setProduct(data?.products)
 
-    const serachProduct = product.filter((singleProduct) => {
-
-      let title = singleProduct.title.toLocaleLowerCase();
-      let searchterm = search.toLocaleLowerCase();
-      return title.includes(searchterm)
-    })
-    setProduct(serachProduct)
-
-  }, [search])
+  //           });
+          
+  //   }, [search])
 
   
   return (
     <div>
-
-      <input type='text'
+<Navbar/>
+      {/* <input type='text'
         onChange={(e) => {
           setseach(e.target.value)
         }}
         value={search}
-      />
-      <div>
+      /> */}
+
+
+      <div className='display-product'>
 
 
         {
           product.map((product, index) => {
             const { id, title, description, brand, category, price, rating, stock, thumbnail, images, discountPercentage } = product
             return (<>
-              <img src={thumbnail} />
-              <h2>{title}</h2>
-              <Link to={`/product/${id}`}>order now</Link>
+               <div className='item'>
+              <div className='imgproduct'>
+              <img src={thumbnail} className='img'  
+           
+            />
+              </div>
+
+              <p>{title}</p>
+             <p className='price'>{price}</p>
+             <Link to={`/product/${id}`}>buynow</Link>
+             </div>
 
             </>)
           })

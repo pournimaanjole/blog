@@ -5,6 +5,8 @@ import Login from './views/Login/Login';
 import { createBrowserRouter,RouterProvider } from 'react-router-dom';
 import Home from './views/Home/Home';
 import Product from './views/Product/Product';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+
 const router=createBrowserRouter([
   {
     path:'/',
